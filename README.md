@@ -1,1 +1,1 @@
-# Laravel-App
+# Invoice Buddy
